@@ -1,8 +1,5 @@
-These are most of templates of algorithms I have been using in competetive programming. If you do not know what competetive 
-programming is check out this website(because it is legendary): https://codeforces.com
+These are the algorithms templates I have been using throughout my competetive [programming career](https://codeforces.com/profile/M1v1savva1601).
 
-This will be a true act of heroism if you manage to understand my code, because I wrote it primarly for personal usage(variable names 
-a la a, b, t, p and so on). Still, all this code is functional and there is quite a lot of interesting stuff, so I think 
-it is worth sharing.
+The code was intended for my personal usage so the code is not necessarily understandable. However, it is neat and fully functional, each of those templates was tested in various competitions. 
 
-I am planning to keep refactoring and adding some new stuff to it in the future.
+For now I took a break from competitions and focus on other stuff, however, if I return I will be refactor these templates for more convenient usage.
